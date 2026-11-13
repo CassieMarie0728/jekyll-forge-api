@@ -1,0 +1,5 @@
+- sites_delete
+- sites_get
+- sites_list
+- sites_update
+- sites_upsert

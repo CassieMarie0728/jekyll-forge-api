@@ -1,0 +1,5 @@
+- aiproviders_activate
+- aiproviders_getsettings
+- aiproviders_remove
+- aiproviders_save
+- aiproviders_test

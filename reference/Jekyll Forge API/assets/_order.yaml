@@ -1,0 +1,6 @@
+- assets_delete
+- assets_generatealttext
+- assets_list
+- assets_reoptimize
+- assets_update
+- assets_upload

@@ -1,0 +1,4 @@
+- blocks_create
+- blocks_delete
+- blocks_list
+- blocks_update

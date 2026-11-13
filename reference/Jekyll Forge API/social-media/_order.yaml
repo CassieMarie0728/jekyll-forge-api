@@ -1,0 +1,13 @@
+- socialmedia_cancelscheduledpost
+- socialmedia_connectaccount
+- socialmedia_disconnectaccount
+- socialmedia_getaccountdetails
+- socialmedia_getaccounts
+- socialmedia_getanalyticsbyplatform
+- socialmedia_getanalyticssummary
+- socialmedia_getcontentanalytics
+- socialmedia_getscheduledposts
+- socialmedia_publishcontent
+- socialmedia_reschedulepost
+- socialmedia_schedulepost
+- socialmedia_syncanalytics

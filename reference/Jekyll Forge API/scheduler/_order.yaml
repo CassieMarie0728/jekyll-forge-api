@@ -1,0 +1,8 @@
+- scheduler_cancel
+- scheduler_cancelall
+- scheduler_list
+- scheduler_listheartbeatjobs
+- scheduler_markfailed
+- scheduler_markpublished
+- scheduler_reschedule
+- scheduler_schedule

@@ -1,0 +1,7 @@
+- posts_autosave
+- posts_delete
+- posts_get
+- posts_getfrontmattertemplates
+- posts_list
+- posts_update
+- posts_upsert
